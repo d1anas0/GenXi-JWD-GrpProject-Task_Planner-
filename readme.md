@@ -2,6 +2,8 @@
 
 This was a group project @Vasiliygenadiy, @MartinK114 and I worked on together as one of the assessment tasks in our coding intensive course.
 
+https://d1anas0.github.io/Task-Planner/
+
 You can set tasks for people in your team, and each team member can manage their own task list using the filter function. 
 Task progress can be tracked and I'd also added a feature to review a task before it is marked as complete (and therefore taken off the task list).  
 
