@@ -1,5 +1,8 @@
 # Task Planner
 
+You can set tasks for people in your team, and each team member can manage their own task list using the filter function. 
+Task progress can be tracked and I'd also added a feature to review a task before it is marked as complete (and therefore taken off the task list). 
+
 This was a group project @Vasiliygenadiy, @MartinK114 and I worked on together as one of the assessment tasks in our coding intensive course. 
 
 **Try it out, and let me know your thoughts. If you have any suggestions or would like to collaborate on this, please feel free. There are many directions this could go :smile:**
