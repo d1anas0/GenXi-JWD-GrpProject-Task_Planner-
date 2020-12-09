@@ -2,6 +2,7 @@
 
 This was a group project @Vasiliygenadiy, @MartinK114 and I worked on together as one of the assessment tasks in our coding intensive course.
 
+Have a play here: 
 https://d1anas0.github.io/Task-Planner/
 
 You can set tasks for people in your team, and each team member can manage their own task list using the filter function. 
